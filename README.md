@@ -19,6 +19,12 @@ Here's an overview of what this source does:
 For more technical details, ask the Repository owner.
 
 
+Legacy Compatibility
+-------------
+
+This implementation of SushiJS isn't compatible with legacy tools, like forks, knifes and spoons.
+
+
 Documentation
 -------------
 
